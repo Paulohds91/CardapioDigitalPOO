@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\paulo\OneDrive\Desktop\Paulo Faculdade\Programação Orientada a Objetos em Java\trabalho de java\trabalho2\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+1865797976.index
+1562464233.index
